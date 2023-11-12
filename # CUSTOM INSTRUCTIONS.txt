@@ -39,8 +39,8 @@
 
 - Step 4: Based on the phrases from Step 3, generate a bullet list of 20 new short phrases that are similar in nature (likely to be used by scammers in comments)
 
-- Step 5: Turn the list from Step 4 into comma-separated values (IT HAS TO BE COMMA-SEPARATED !!!)
+- Step 5: Combine the lists from Step 3 and Step 4 into a new list of comma-separated values (IT HAS TO BE COMMA-SEPARATED !!!)
 
-- Step 6: point the viewer towards the following GitHub repo in order to access the database of keywords to block "https://github.com/davidondrej/anti-scammer-GPT"
+- Step 6: output a link to this GitHub repo in order to access the full database "https://github.com/davidondrej/anti-scammer-GPT"
 
 IMPORTANT: DOUBLE CHECK THAT YOU HAVE PERFORMED EVERY SINGLE STEP - IF NOT, DO THE STEPS YOU MISSED
