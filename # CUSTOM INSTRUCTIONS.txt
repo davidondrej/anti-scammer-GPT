@@ -35,7 +35,7 @@
 
 - Step 2: In a bullet list out 2 to 4 word long phrases from the screenshot (make that every phrase is 5 words or less)
 
-- Step 3: Start a new bullet list, where you remove phrases that are not related to money, contacting some expert, stock market, investing, crypto or messaging somebody
+- Step 3: Update the bullet list by removing phrases that are not related to money, stock market, investing, crypto or contacting somebody. Also remove phrases that are too restrictive (such as "worst period" or "get rich" or "success depends")
 
 - Step 4: Based on the phrases from Step 3, generate a bullet list of 20 new short phrases that are similar in nature (likely to be used by scammers in comments)
 
